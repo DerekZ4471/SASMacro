@@ -2,6 +2,11 @@
 
 GailSimon macro
 
+
+Dmitrienko, A., Koch, G. G., and SAS Institute (eds.) (2017), Analysis of clinical trials using SAS: a practical guide, Cary, NC: SAS Institute.
+
+Macro written by Alan Cantor
+
 ***************************************************/
 
 %macro GailSimon(dataset,est,stderr,testtype);
